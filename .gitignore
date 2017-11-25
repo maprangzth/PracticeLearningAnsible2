@@ -1,2 +1,5 @@
 # Exclude inventories directory
 inventories
+
+# Exclude *.retry file in playbooks directory
+playbooks/*.retry
